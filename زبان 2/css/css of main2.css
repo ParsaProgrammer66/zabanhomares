@@ -1,0 +1,194 @@
+/*بی خط کردن این تگ */
+a{
+    text-decoration-line:none ;
+}
+/*بی خط کردن این تگ */
+
+
+/*سی اس اس منو */
+header {
+    top: 0;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    background:green;
+    }
+.ff{
+    color: yellow;
+    text-align: center;
+    font-size: 200%;
+}
+.ll{
+    color: white;
+    text-align: center;
+}
+/*سی اس اس منو */
+
+
+/* سی اس اس مشخصات*/
+.hh{
+    width: 30%;
+    height: 100%;
+    background-color: grey;
+}
+.gg{
+    position: relative;
+    right: 17%;
+    width: 60%;
+    height: 60%;
+}
+.ww{
+    font-size: 250%;
+    text-align: center;
+}  
+.ss{
+    font-size: 200%;
+    text-align: center;
+}
+.kk{
+    font-size: 200%;
+    text-align: center;
+}
+.aa{
+    font-size: 150%;
+    background-color: black;
+    color: red;
+    padding: 5px;
+}
+/* سی اس اس مشخصات*/
+
+
+/* سی اس اس مراحل*/
+.nn{
+    width: 10%;
+    height: 10%;
+    position: relative;
+    top: -800px;
+    right: 520px;
+}
+.qq{
+    width: 10%;
+    height: 10%;
+    position: relative;
+    top: -750px;
+    right: 520px;
+}
+.ee{
+    width: 10%;
+    height: 10%;
+    position: relative;
+    top: -700px;
+    right: 530px;
+}
+.rr{
+    width: 10%;
+    height: 10%;
+    position: relative;
+    top: -650px;
+    right: 530px;
+}
+.tt{
+    width: 10%;
+    height: 10%;
+    position: relative;
+    top: -450px;
+    right: 252px;
+}
+.yy{
+    width: 10%;
+    height: 10%;
+    position: relative;
+    top: -350px;
+    right: -265px;
+}
+.uu{
+    width: 10%;
+    height: 10%;
+    position: relative;
+    top: -400px;
+    right: 675px;
+}
+
+
+
+.ii{
+    position:relative;
+    top: -860px;
+    right: 395px;
+    font-size: 200%;
+}
+.oo{
+    position:relative;
+    top: -810px;
+    right: 390px;
+    font-size: 200%;
+}
+.pp{
+    position:relative;
+    top: -760px;
+    right: 405px;
+    font-size: 200%;
+}
+.dd{
+    position:relative;
+    top: -720px;
+    right: 385px;
+    font-size: 200%;
+}
+.bb{
+    position:relative;
+    top: -515px;
+    right: 125px;
+    font-size: 200%;
+}
+.zz{
+    position:relative;
+    top: -575px;
+    right: 1070px;
+    font-size: 200%;
+}
+.xx{
+    position:relative;
+    top: -465px;
+    right: 550px;
+    font-size: 200%;
+}
+/* سی اس اس مراحل*/
+
+
+/*سی اس اس ارتباط با ما */
+footer{
+   
+    box-sizing: border-box;
+    background-color: black;
+}
+.h5{
+    color: white;
+}
+.pk p{
+    color: white;
+    font-size: 50px;
+}
+.pk h5{
+    position: absolute;
+    font-size:200% ;
+    right: 50px;
+}
+/*سی اس اس ارتباط با ما */
+
+
+/*تعریف فونت ها */
+@font-face{
+    font-family: h2 ;
+    src :url(font/simpfxo.ttf);
+}
+@font-face{
+    font-family: p ;
+    src :url(font/msuighur.ttf);
+}
+@font-face{
+    font-family: h5 ;
+    src :url(font/arabtype.ttf);
+}
+/*تعریف فونت ها */
+

@@ -1,0 +1,44 @@
+body{
+    background-color: #333;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+}
+#container{
+   width:55% ; 
+   background-color: tomato;
+   overflow: hidden;
+   margin: 20px auto;
+   padding:25px ;
+}
+header{
+text-align: center;
+border-bottom: #333;
+}
+header h1{
+    margin: 0px;
+    padding: 0px;
+}
+section{
+    min-height: 400px
+}
+footer{
+    text-align: center;
+}
+input[type="submit"]{
+    background-color: #333;
+    color: #fff;
+    padding:15px 25px ;
+    border: none;
+}
+#result{
+    background-color: #333;
+    color: #fff;
+}
+#result h3{
+    padding:10px ;
+    margin: 10px 0px;
+}
+#result span{
+    color: tomato;
+    font-weight: bolds;
+}
